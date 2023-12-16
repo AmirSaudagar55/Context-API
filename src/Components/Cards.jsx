@@ -3,7 +3,7 @@ import React from 'react'
 function Cards() {
   return (
     <div className="max-w-sm rounded overflow-hidden shadow-lg dark:text-white dark:bg-gray-800 dark:border-gray-700">
-        <img className="w-full" src="/img/card-top.jpg" alt="Sunset in the mountains"/>
+        <img className="w-full" src="src\assets\img1.jpg" alt="Sunset in the mountains"/>
         <div className="px-6 py-4">
             <div className="font-bold text-xl mb-2">The Coldest Sunset</div>
             <p className="text-gray-700 text-base dark:text-white">
